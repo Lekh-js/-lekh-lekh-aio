@@ -1,0 +1,19 @@
+{
+  "name": "@lekh/lekh-aio",
+  "version": "0.0.1",
+  "description": "A feature rich, easy to use and modern looking text editor for the react ecosystem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lekh-js/lekh-aio.git"
+  },
+  "author": "@visheshdvn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lekh-js/lekh-aio/issues"
+  },
+  "homepage": "https://github.com/Lekh-js/lekh-aio#readme"
+}
