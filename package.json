@@ -1,5 +1,5 @@
 {
-  "name": "@lekh/lekh-aio",
+  "name": "@lekh/lekh",
   "version": "0.0.1",
   "description": "A feature rich, easy to use and modern looking text editor for the react ecosystem.",
   "main": "index.js",
@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/Lekh-js/lekh-aio/issues"
   },
-  "homepage": "https://github.com/Lekh-js/lekh-aio#readme"
+  "homepage": "https://github.com/Lekh-js/lekh-aio#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "slate": "^0.91.4",
+    "slate-react": "^0.92.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.10",
+    "typescript": "^5.0.2"
+  }
 }
